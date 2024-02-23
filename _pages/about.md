@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "BIOGRAPHY"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I spent my formative years in Galle, a city located near the southern coast of Sri Lanka. After completing my high school education, I pursued my bachelor’s degree in surveying sciences from the faculty of Geomatics at the [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). During my undergraduate studies, I mainly focused on remote sensing, GIS, and land surveying. It was during this time that I developed a keen interest in geospatial information technology.
+Later, I earned my MPS in Geospatial Information Science and Engineering from the [State University of New York College of Environment Science and Forestry](https://www.esf.edu/). During my master's degree program, I delved deeper into GIS and digital data processing. Currently, I am pursuing my Ph.D. in the Geography department at the [University of Alabama](https://www.ua.edu/). 
+My research interests revolve around geospatial information technology and its applications in hazards and transportation. My dissertation focuses on using traffic simulation and fire spread models to develop data-driven community wildfire evacuation plans in the wildland-urban interface. My research aims to provide communities with the tools and resources to manage wildfire events effectively, thereby minimizing the loss of life and property.
+
 
 A data-driven personal website
 ======
