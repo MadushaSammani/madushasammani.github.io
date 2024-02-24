@@ -18,20 +18,39 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Graduate Teaching Assistant
+  * University of Alabama
+  * GY 101 -  Atmospheric Processes and Patterns 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Graduate Teaching Assistant
+  * University of Alabama
+  * GY 101 -  Atmospheric Processes and Patterns 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * South Dakota State University
+    
+* Spring 2023: Research Assistant
+  * South Dakota State University
+ 
+* Fall 2022: Research Assistant
+  * South Dakota State University
+
+* February 2021 - September 2021: Assistant Lecturer
+  * Sabaragamuwa University of Sri Lanka
+  * Land Surveying field practical
+ 
+* December 2017 - June 2018: Assistant Lecturer
+  * Sabaragamuwa University of Sri lanka
+  * Land Surveying field practical, Photogrammetry, Remote Sensing
+ 
+* April 2016 - December 2017: Demonstrator
+  * Sabaragamuwa University
+  * Land Surveying field practical, Photogrammetry, Remote Sensing
+ 
+* Visiting instructor
+  * Centre for Open and Distance Learning, Sabaragamuwa University of Sri Lanka, Ratnapura, Sri Lanka
+  * AutoCAD 3D drawing with applications
+
   
 Skills
 ======
