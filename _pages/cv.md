@@ -48,7 +48,7 @@ Work experience
   * Land Surveying field practical, Photogrammetry, Remote Sensing
  
 * Visiting instructor
-  * Centre for Open and Distance Learning, Sabaragamuwa University of Sri Lanka, Ratnapura, Sri Lanka
+  * Centre for Open and Distance Learning, Sabaragamuwa University of Sri Lanka
   * AutoCAD 3D drawing with applications
 
   
