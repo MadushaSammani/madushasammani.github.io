@@ -54,12 +54,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Survey Instruments: Traditional land measurement instruments, Theodolites, Levels, Total Station, GPS, CG 6 Gravimeter
+* Programming Language:
+  * HTML and Java Script for web mapping and geo visualization
+  * R for LiDAR point cloud data processing, statistic and probability
+  * MATLAB for spatial analysis and digital data processing (satellite images, video, and character recognition)
+  * ArcPy for GIS modeling
+  * python for machine learning
+  * Java for modeling
+* Remote sensing image processing software: ERDAS, ENVI, ArcGIS, SNAP, QGIS
+* Digital data processing: ArcGIS Online, QGIS
+* Photogrammetry: VirtuoZO, ERDAS photogrammetry workstation, ContextCapture
 
 Publications
 ======
@@ -67,18 +72,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2018: Fulbright Scholarship
+* 2016: Innovation award, Asian Conference on Remote Sensing
+* 2011: Mahapola higher education scholarship
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
