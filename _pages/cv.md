@@ -77,5 +77,13 @@ Awards
 * 2018: Fulbright Scholarship
 * 2016: Innovation award, Asian Conference on Remote Sensing
 * 2011: Mahapola higher education scholarship
+
+Talks
+======
+{% for post in site.talks reversed %} {% include archive-single-talk-cv.html %} {% endfor %}
+
+Teaching
+======
+{% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}
   
 
