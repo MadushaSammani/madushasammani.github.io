@@ -14,11 +14,12 @@ I spent my formative years in Galle, a city located near the southern coast of S
 
 EDUCATION
 ======
-Current[     ]Ph.D. in Geography, University of Alabama (Advisor: [Dr.Dapeng Li](https://geography.ua.edu/people/dapeng-li/)
 
-2020[         ]MPS in Geospatial Information Science and Engineering (Advisor: [Dr. Giorgos Mountrakis](https://www.esf.edu/faculty/mountrakis/index.php)
+Current                  : Ph.D. in Geography, University of Alabama (Advisor: [Dr.Dapeng Li](https://geography.ua.edu/people/dapeng-li/))
 
-2016[         ]B.Sc. in Surveying Sciences [Advisor: Dr.Duminda Welikanna](https://www.sab.ac.lk/staff-directory/160)
+2020                     : MPS in Geospatial Information Science and Engineering (Advisor: [Dr. Giorgos Mountrakis](https://www.esf.edu/faculty/mountrakis/index.php))
+
+2016                     : B.Sc. in Surveying Sciences (Advisor: [Dr.Duminda Welikanna](https://www.sab.ac.lk/staff-directory/160))
 
 
 
