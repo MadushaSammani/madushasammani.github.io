@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, Unibersity of Alabama (Current)
+* Ph.D in Geography, South Dakota State University (2022 - 2023)
+* MPS in Geospatial Information Science and Engineerring, SUNY-ESF (2021)
+* B.Sc. in Surveing Sciences, Sabaragamuwa University of Sri Lanka (2016)
 
 Work experience
 ======
